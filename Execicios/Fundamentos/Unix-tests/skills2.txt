@@ -1,0 +1,8 @@
+internet
+unix
+bash
+cachorro
+gato
+galinha
+porco
+passaro
