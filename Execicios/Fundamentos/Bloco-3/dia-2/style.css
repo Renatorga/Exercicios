@@ -1,0 +1,35 @@
+#vermelho {
+    background-color: red;
+  } 
+  #marron {
+    background-color: brown;
+  }
+
+p {
+  
+  font-weight: 600;
+  font-size: 3em;
+}
+h1 {
+  font-size: 65px;
+  font-family: sans-serif;
+  line-height: calc(2);
+  text-align: center;
+  text-decoration: floralwhite;
+}
+
+  .tamanho-cor {
+     color: orange;
+
+}
+.background {
+background-color: red;
+}
+.background {
+background-color: blue;
+}
+body {
+text-decoration: underline;
+font-style: oblique;
+font-size: 16px
+}
