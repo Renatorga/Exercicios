@@ -1,0 +1,1 @@
+document.getElementsByTagName("p") = "Trabalhando com programação";
